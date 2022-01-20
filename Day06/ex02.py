@@ -1,6 +1,10 @@
 
 score = input("성적 : ")
 score = int(score)
+# 다중 조건문
+# - 위에 나온 조건이 만족하지 않을 때, (if)
+#   아래의 조건을 확인하고, (elif)
+#   모두 만족하지 않으면 else 문을 실행
 
 if score >= 90:
     print("A 학점입니다.")

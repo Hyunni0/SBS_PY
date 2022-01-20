@@ -15,3 +15,6 @@ print('{0}하세요, 저는 ㅇㅇㅇ{1}. 과목은 파이썬{1}. 다음에 봐�
 
 tel1, tel2, tel3 = '02', '222', '3333'
 print('연락처 : {0} - {1} - {2}'.format(tel1, tel2, tel3))
+
+academy = 'SBS'
+print('name : {name}'.format(name = academy))
